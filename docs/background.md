@@ -1,5 +1,5 @@
-# Linux background
+## Linux background
 
-## Resources
+### Resources
 
-[1] [](https://en.wikipedia.org/wiki/Linux)
+[1] [https://en.wikipedia.org/wiki/Linux](https://en.wikipedia.org/wiki/Linux)

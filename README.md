@@ -1,4 +1,4 @@
-# linux-intro
+## linux-intro
 
 github repo created to store intro to linux content.
 
