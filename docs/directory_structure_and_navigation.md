@@ -19,11 +19,13 @@ and password.
 After logging in, use the top navigation bar to select **Clusters**, then click
 **Pitzer shell**.
 
+```
 /
 |_ users/
   |_ PZS<num>/
     |_ <user1>/
     |_ <user2>/
+```
 
 ## Commands
 
