@@ -36,9 +36,9 @@ and a bash shell will start.
 
 ### ls and mkdir
 
-Use ls command to 'list' the contents of a directory.
+Use `ls` command to 'list' the contents of a directory.
 
-Use mkdir to 'make directory'. This command takes and argument of the new
+Use `mkdir` to 'make directory'. This command takes and argument of the new
 directory name.
 
 ```
@@ -50,12 +50,12 @@ $ mkdir my-new-dir
 
 ### pwd and cd commands
 
-The first two commands to try are pwd and cd.
+The first two commands to try are `pwd` and `cd`.
 
-Use pwd to 'print working directory'. The working directory is the directory you
+Use `pwd` to 'print working directory'. The working directory is the directory you
 are currently in.
 
-Use cd to 'change directory'. This command takes an argument of the directory
+Use `cd` to 'change directory'. This command takes an argument of the directory
 name to change to.
 
 ```
@@ -89,6 +89,8 @@ Finally, there are some shorthands that can be useful.
 
 * `cd` command with no arguments sets cwd to home directory.
 * `$HOME` or `~` is shorthand for the current user's home directory
+* `.` refers to the current working directory
+* `..` refers to the parent of the current working directory
 
 ## Commands list
 
@@ -96,3 +98,7 @@ Finally, there are some shorthands that can be useful.
 * mkdir
 * pwd
 * cd
+
+## Next section
+
+[Create, view and remove files](create_view_remove_files.md)

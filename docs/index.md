@@ -1,5 +1,3 @@
-## Test
-
-This is a test.
+## Linux tutorial
 
 [Start Linux intro](background.md)

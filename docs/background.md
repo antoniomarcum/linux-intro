@@ -17,7 +17,22 @@ saved data.
 Linux is a complex system, but understanding the basics and a set of most used
 commands will be more than enough to get started on the systems.
 
-### Next section
+## Useful concepts
+
+Linux is case sensitive. The string "cats" is NOT the same as "CaTs".
+
+Make sure to use the "control" key when necessary. This can be denoted as "^" or
+<ctrl>. If a program requires the use of this key, then hold down ^ first, then
+press the second key while still holding down ^.
+
+Return (or Enter) key submits stdin to the system to interpret.
+
+###Standard input/output (stdin/stdout)
+stdint/out can be summed up as the input and output provided to a user. A user
+providing commands are sent to stdin, and when/if there is a response, then that
+is displayed to the user as stdout.
+
+## Next section
 
 [Directory structure and navigation](directory_structure_and_navigation.md)
 
